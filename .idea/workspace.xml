@@ -28,12 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28477ff3-5250-43b4-93f9-af1f9e9ca6f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/advent-of-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="28477ff3-5250-43b4-93f9-af1f9e9ca6f8" name="Default Changelist" comment="day 1 setup with failing test">
       <change afterPath="$PROJECT_DIR$/2020/day-1/day1.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2020/day-1/day1_test.go" afterDir="false" />
     </list>
@@ -120,6 +115,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setting up project structure" />
+    <MESSAGE value="day 1 setup with failing test" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1 setup with failing test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="291" y="135" width="696" height="665" key="EditFileWatcherDialog" timestamp="1607007505747">
